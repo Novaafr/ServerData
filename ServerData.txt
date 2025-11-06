@@ -4,7 +4,7 @@ Thank you for using Qolossal Cheat Menu V2, This menu is paid so if you have got
 https://discord.gg/M4NQ6BTywD
 null
 null;;null
-x,goldentrophy
+x,nova
 0000000000000000
 null
 null
