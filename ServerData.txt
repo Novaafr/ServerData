@@ -2,9 +2,4 @@ allowed
 A3EB8336A6239803;nova
 Thank you for using Qolossal Cheat Menu V2, This menu is paid so if you have got it for free you have been ratted or infected.
 https://discord.gg/M4NQ6BTywD
-null
-null;;null
-x,nova
-0000000000000000
-null
-null
+blacklistedid1;blacklistedid2
